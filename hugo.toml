@@ -1,6 +1,7 @@
 baseURL = 'https://truyencuabo.github.io/'
 languageCode = 'en-us'
 title = 'Truyện của bố'
+publishDir = "docs"
 
 # Theme used
 theme = "hugo-astatine-theme"
