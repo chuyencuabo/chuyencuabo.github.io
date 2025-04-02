@@ -1,3 +1,3 @@
-# Truyện của bố
+# Chuyện của bố
 
-Nơi tổng hợp những ghi chép của bố Tỏn.
+Vốn là nơi ghi chép những chuyện và truyện của bố Tỏn. Nhưng bố không cần, nên thành nơi mình dùng.
