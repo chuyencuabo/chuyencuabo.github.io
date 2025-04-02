@@ -1,13 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Truyện của bố</title>
-    <link>https://truyencuabo.github.io/</link>
-    <description>Recent content on Truyện của bố</description>
+    <title>Chuyện của bố</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Chuyện của bố</description>
     
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2024 11:35:43 +0200</lastBuildDate>
     
-    <atom:link href="https://truyencuabo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
